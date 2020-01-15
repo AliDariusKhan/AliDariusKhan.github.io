@@ -7,6 +7,7 @@
 * The Lagrangian is identical to that of 1D General Relativity.
 * It is much more efficient to calculate certain kinds of amplitudes in this formalism.
 * The amplitudes are gauge-invariant by construction.
+
 #### In the dissertation, we will establish this theory from first principles, explore the above features and ultimately derive the Bern-Kosower Master Formulae for calculating amplitudes.
 ---
 ## [Click here to view my collection of solutions to problems in Theoretical Physics](./Theoretical_Physics.pdf).
