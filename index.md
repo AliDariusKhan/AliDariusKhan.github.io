@@ -12,7 +12,7 @@
 ---
 ## [Click here to view my collection of solutions to problems in Theoretical Physics](./Theoretical_Physics.pdf).
 
-#### Solutions to problems from various fields of Theoretical Physics. The questions are taken mainly from Cambridge Part III Problem Sets, Durham Problem Sets and 'An Introduction to Quantum Field Theory' by Peskin & Schroeder. The problems are from the following fields:
+#### Solutions to problems from various fields of Theoretical Physics. The problems are from the following fields:
 * Quantum Field Theory
 * Advanced Quantum Field Theory
 * Lie Algebras
